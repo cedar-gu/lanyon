@@ -10,7 +10,7 @@ description:         ''
 url:                 cedar-gu.com
 baseurl:             ''
 paginate:            5
-
+theme: jekyll-theme-architect
 # About/contact
 author:
   name:              cedar gu
@@ -19,5 +19,3 @@ author:
 
 # Custom vars
 version:             1.0.0
-
-theme: jekyll-theme-architect
